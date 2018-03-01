@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preferences Android</string>
+    <string name="choose_the_color_for_your_app">Choose the color for your app</string>
+    <string name="red_color">Red color</string>
+    <string name="green_color">Green Color</string>
+    <string name="yellow_color">Yellow Color</string>
+</resources>
